@@ -1,0 +1,5 @@
+name : "Name hello"
+description: "bonjour"
+runs: 
+  using: 'node16'
+  main: 'index.js'
